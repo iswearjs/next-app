@@ -10,7 +10,7 @@ const MyApp = ({ Component, pageProps }) => {
         <a>About</a>
       </Link>
       <Component {...pageProps} />
-      <footer>Ishwar Prasad Dewangan was here!</footer>
+      <footer>Jon Meyers was here!</footer>
     </>
   );
 };
